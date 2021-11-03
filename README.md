@@ -7,3 +7,5 @@ My personal collection of programming cheatsheets
 ## [Express](Express.md)
 
 ## [JavaScript Modules](JavaScript-Modules.md)
+
+## [Redux](Redux.md)
